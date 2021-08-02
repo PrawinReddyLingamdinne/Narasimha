@@ -1,4 +1,7 @@
 <h1>Wlcome to Github</h1>
 <h2>Hi how are you</h2>
+<<<<<<< HEAD
 <h3>Welcome here</h3>
 
+=======
+>>>>>>> c07cd155b587769ed609c27044514059ad516459
